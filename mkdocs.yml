@@ -1,0 +1,6 @@
+site_name: 3CIR Online Business Study Guide
+site_description: A plain-English guide to the BSB40120 Certificate IV in Business.
+site_url: https://3cironline-cert-iv-business.readthedocs.io/
+use_directory_urls: true
+theme:
+  name: mkdocs
